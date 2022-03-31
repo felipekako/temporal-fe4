@@ -7,7 +7,7 @@ const appi = {
 }
 function App() {
   return (
-    <div className="App">
+    <div className="App calor">
      <main>
        <div className="search-box">
          <input
