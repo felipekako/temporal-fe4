@@ -14,7 +14,7 @@ https://nodejs.org/en/download/
 
  ## 3(cmd)
 
- ```npm instal```
+ ```npm install```
 
  ## 4(cmd)
 
